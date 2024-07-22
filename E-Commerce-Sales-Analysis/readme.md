@@ -17,7 +17,6 @@ This Power BI dashboard provides key insights into our E-Commerce data, focusing
 
 ![Dashboard Overview](E-Commerce-Sales-Analysis/Files/E-Commerce-Dashboard.PNG)
 
-
 ## Visualizations 
 1. **Profit by Month**:
    - Displays monthly profit trends, helping to identify peak performance periods and seasonal variations.
