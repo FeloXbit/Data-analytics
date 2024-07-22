@@ -15,7 +15,7 @@ This Power BI dashboard provides key insights into our E-Commerce data, focusing
 - **Total Profit**: Overall profit from sales.
 - **Percentage Profit**: Profit as a percentage of total sales.
 
-![Dashboard Overview](E-Commerce-Sales-Analysis/Files/E-Commerce-Dashboard.PNG)
+![E-Commerce Dashboard](https://github.com/user-attachments/assets/2739d69c-bb09-449d-90d4-1191981de4e5)
 
 ## Visualizations 
 1. **Profit by Month**:
