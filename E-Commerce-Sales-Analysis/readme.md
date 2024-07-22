@@ -1,12 +1,12 @@
 ## E-Commerce-Sales-Analysis
 
-##Description
+## Description
 This repository contains a dashboard generated from an E-Commerce dataset, presenting insights derived from the data. This project provides an in-depth analysis of the E-Commerce platform to uncover valuable insights. The dashboars was created using PowerBI and analysis was done using DAX which is present in powerBI.
 
-##Tools
+## Tools
 Microsoft PowerBi 
 
-##Project Overview
+## Project Overview
 This Power BI dashboard provides key insights into our E-Commerce data, focusing on sales, profit, and product performance. Below is a summary of the main components and visualizations included in the dashboard.
 
 ## Key Metrics
@@ -15,7 +15,9 @@ This Power BI dashboard provides key insights into our E-Commerce data, focusing
 - **Total Profit**: Overall profit from sales.
 - **Percentage Profit**: Profit as a percentage of total sales.
 
-## Visualizations
+[Dashboard Overview] (E-Commerce-Sales-Analysis/Files/E-Commerce Dashboard.PNG)
+
+## Visualizations 
 1. **Profit by Month**:
    - Displays monthly profit trends, helping to identify peak performance periods and seasonal variations.
    
