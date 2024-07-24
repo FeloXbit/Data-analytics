@@ -4,7 +4,7 @@
 This repository contains a dashboard generated from an E-Commerce dataset, presenting insights derived from the data. This project provides an in-depth analysis of the E-Commerce platform to uncover valuable insights. The dashboars was created using PowerBI and analysis was done using DAX which is present in powerBI.
 
 ## Tools
-Microsoft PowerBi https://camo.githubusercontent.com/ecef4c543198952452b882c5551593f6c6a7f1f4a2b304d61b0d79ce7cbf1bad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b
+Microsoft PowerBi
 
 ## Project Overview
 This Power BI dashboard provides key insights into our E-Commerce data, focusing on sales, profit, and product performance. Below is a summary of the main components and visualizations included in the dashboard.
