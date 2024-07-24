@@ -1,9 +1,13 @@
-# README for Adidas Sales Dashboard
+# Adidas Sales Dashboard
 
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of Adidas sales data, offering key insights and visualizations to understand overall performance, sales trends, market segmentation, and future predictions. The dashboard is divided into four main sections: Overall Analysis, Sales Analysis, Market Analysis, and Insights & Prediction.
 
-![Dashboard Overview](E-Commerce-Sales-Analysis/Files/E-Commerce-Dashboard.PNG)
+## Tools
+Power BI
+
+![sales analysis](https://github.com/user-attachments/assets/adce26e8-abfe-417e-83a1-c128e670a252)
+
 
 ## Key Metrics
 - **Total Revenue**: $899.90M
