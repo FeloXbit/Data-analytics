@@ -4,7 +4,7 @@
 This Power BI dashboard provides a comprehensive analysis of Adidas sales data, offering key insights and visualizations to understand overall performance, sales trends, market segmentation, and future predictions. The dashboard is divided into four main sections: Overall Analysis, Sales Analysis, Market Analysis, and Insights & Prediction.
 
 ## Tools
-Power BI
+Power BI (Power Query & DAX)
 
 ## Key Metrics
 - **Total Revenue**: $899.90M
@@ -12,6 +12,7 @@ Power BI
 - **Average Operating Margin**: 0.42
 - **Units Sold**: 2M
 - **Price per Unit**: $436.25K
+  
 
 ## Visualizations
 
@@ -25,12 +26,16 @@ Power BI
 - **Profit Analysis**: Compares profit margins across states, retailers, and sales methods.
 
 ### Sales Analysis
+![real sales](https://github.com/user-attachments/assets/1efb1dc6-fa9d-4cd2-a374-578187da4fe1)
+
 - **Monthly Sales**: Compares current monthly sales with last year's sales.
 - **Total Sales by Region**: Visualizes sales amounts in different regions.
 - **Average Price per Unit by Year**: Shows price trends over time.
 - **Total Sales by Retailer**: Compares sales performance of different retailers.
 
 ### Market Analysis
+![Market analysis](https://github.com/user-attachments/assets/e1b31f4c-052b-4b22-a127-7148fc370489)
+
 - **Total Revenue**: $899.90M
 - **Profit**: $332.13M
 - **Units Sold**: 2M
@@ -41,6 +46,8 @@ Power BI
 - **Key Insights**: Highlights significant findings, such as West having the highest count of sales methods.
 
 ### Insights & Prediction
+![prediction](https://github.com/user-attachments/assets/45ca45a8-ea6e-4d89-8d76-b24212bf06d0)
+
 - **Prediction Analysis**: Provides sales predictions for 2022 based on historical data trends.
 
 ## Data Table
