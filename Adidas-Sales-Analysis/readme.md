@@ -6,9 +6,6 @@ This Power BI dashboard provides a comprehensive analysis of Adidas sales data, 
 ## Tools
 Power BI
 
-![sales analysis](https://github.com/user-attachments/assets/adce26e8-abfe-417e-83a1-c128e670a252)
-
-
 ## Key Metrics
 - **Total Revenue**: $899.90M
 - **Profit**: $332.13M
@@ -19,6 +16,7 @@ Power BI
 ## Visualizations
 
 ### Overall Analysis
+![sales analysis](https://github.com/user-attachments/assets/adce26e8-abfe-417e-83a1-c128e670a252)
 - **Total Revenue**: $899.90M
 - **Profit**: $332.13M
 - **Average Operating Margin**: 0.42
